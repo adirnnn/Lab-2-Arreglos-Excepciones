@@ -1,0 +1,8 @@
+﻿idCurso,idSede,nombreCurso,horario,duracion,dias,cantidadEstudiantes
+1001,1,Matemáticas,8,2,"lunes|martes|jueves",35
+1002,1,Historia,10,3,"miércoles|viernes",45
+1003,2,Ciencias,9,2,"lunes|martes|miércoles",40
+1004,2,Literatura,11,2,"miércoles|viernes",30
+1005,3,Física,14,3,"martes|jueves",50
+1006,3,Química,12,2,"lunes|jueves",55
+1007,4,Inglés,16,2,"lunes|martes|miércoles|jueves",60
